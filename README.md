@@ -27,5 +27,8 @@ Diferite resurse. Tutoriale, documentatie, etc.
 ## Tutoriale video
 * https://egghead.io/ - cea mai importanta sursa de tutoriale video
 
+### Toturiale pe Youtube (la care merita sa te abonezi)
+* https://www.youtube.com/user/DevTipsForDesigners
+
 ## Tutoriale javascript
 * http://www.howtocreate.co.uk/tutorials/javascript/
