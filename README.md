@@ -22,5 +22,10 @@ Diferite resurse. Tutoriale, documentatie, etc.
 * https://angularjs.org/ - Framework javascript dezvoltat de Google pentru dezvoltarea aplicatiilor SPA (Single Page Applications)
 * https://facebook.github.io/react/ - Framework javascript dezvoltat de Facebook
 
-# Tutoriale javascript
+# Tutoriale
+
+## Tutoriale video
+* https://egghead.io/ - cea mai importanta sursa de tutoriale video
+
+## Tutoriale javascript
 * http://www.howtocreate.co.uk/tutorials/javascript/
