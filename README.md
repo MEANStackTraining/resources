@@ -33,7 +33,6 @@ Diferite resurse. Tutoriale, documentatie, etc.
 
 ## Tutoriale javascript
 * http://www.howtocreate.co.uk/tutorials/javascript/
-* 
 
 ## Tutoriale Node.js
 * https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/ - un tutorial despre structura proiectelor
