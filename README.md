@@ -26,10 +26,14 @@ Diferite resurse. Tutoriale, documentatie, etc.
 
 ## Tutoriale video
 * https://egghead.io/ - cea mai importanta sursa de tutoriale video
-* https://nodecasts.io/videos - un numar impresionant de tutoriale video pentru node.js
+* https://nodecasts.io/videos - un numar impresionant de tutoriale video pentru Node.js
 
 ### Toturiale pe Youtube (la care merita sa te abonezi)
 * https://www.youtube.com/user/DevTipsForDesigners
 
 ## Tutoriale javascript
 * http://www.howtocreate.co.uk/tutorials/javascript/
+* 
+
+## Tutoriale Node.js
+* https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/ - un tutorial despre structura proiectelor
